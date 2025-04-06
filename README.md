@@ -9,7 +9,7 @@ An **Application Gateway** is a reverse proxy designed to route traffic to the a
 - **Load Balancing**: Distributes traffic across multiple instances of backend services to ensure high availability.
 
 ## Architecture Diagram
-![Architecture Diagram](architecture-diagram.png)
+TODO
 
 ## Use Cases
 - **Microservices Communication**: Application Gateway as an entry point to route requests to different microservices based on paths.
